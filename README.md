@@ -10,6 +10,13 @@ Why does this matter? Well, imagine waiting and waiting for your food. You'd be 
 
 So, the next time your food arrives when you expect it, you can thank the food delivery time prediction model for being a food-saving hero!
 
+Here in this repo We are going to build a food delivery time prediction model. 
+we’ll start by examining the data and then clean it to ensure accuracy and consistency. 
+We will also use feature engineering techniques to extract valuable insights that will improve the model’s performance.
+
+you can download the dataset from : https://www.kaggle.com/datasets/gauravmalik26/food-delivery-dataset
+
+
 
 
 
